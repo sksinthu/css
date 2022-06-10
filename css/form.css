@@ -1,0 +1,10 @@
+.make {
+    margin-bottom: 15px;
+}
+
+fieldset {
+    width: 50%;
+    background-color: skyblue;
+    margin-left: 20%;
+}
+

@@ -1,0 +1,31 @@
+th{
+    background-color:blue;
+}
+.blue{
+    background-color: skyblue;
+}
+table,th,td{
+    border-collapse: collapse;
+    border-color:black;
+}
+.green{
+    background-color:chartreuse;
+}
+.orange{
+    background-color: orange;
+}
+#red{
+    background-color: red;
+}
+.pink{
+    background-color: blueviolet;
+}
+.yellow{
+    background-color: yellow;
+}
+.coral{
+    background-color: coral;
+}
+.td{
+    background-color: cornflowerblue;
+}

@@ -1,0 +1,38 @@
+.column {
+    float: left;
+    width: 30%;
+    padding: 15px;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .head {
+    background-color: lavender;
+    padding: 20px;
+    
+  }
+  .nav  {
+    overflow: hidden;
+    display: block;
+    color: #f2f2f2;
+    text-decoration: black;
+    background-color: black;
+  }
+  a {
+      text-decoration: none;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  a {
+    margin: none;
+    width: 50%;
+    border: 1px solid black;
+    padding: 5px;
+    color: #000;
+
+  }
